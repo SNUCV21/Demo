@@ -1,6 +1,7 @@
 # SNU Computer Vision Final Project(2021Fall)
 ## 샤인 머스켓 품질 예측
 ### 사용법
+0. python version >= 3.8 
 1. input_original_224에 prediction을 할 input 이미지를 저장("test" + number(1이상) + .jpg 형식)
 2. requirements 설치
 3. .ipynb 내의 코드 실행
